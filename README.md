@@ -15,7 +15,7 @@
 Clone the repository or download the source code:
 
 ```python
-git clone https://github.com/your_github_username/rich_nmap.git
+git clone https://github.com/osama1998H/rich_nmap.git
 ```
 
  Change into the `rich_nmap` directory:
