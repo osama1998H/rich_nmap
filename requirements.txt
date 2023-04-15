@@ -1,0 +1,4 @@
+python-nmap==0.7.1
+rich==13.3.4
+termcolor==2.2.0
+yaspin==2.3.0
