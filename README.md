@@ -27,7 +27,7 @@ cd rich_nmap
 Install the required packages:
 
 ```plaintext
-pip install -r requirements.txt
+sudo pip install -r requirements.txt
 ```
 
 **Note**: Make sure to install the requirements for all users, including root, as OS detection requires root privileges.
